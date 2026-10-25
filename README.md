@@ -1,1 +1,34 @@
-# morrow
+# Morrow
+
+<table>
+  <tr>
+    <td width="50%"><img src="LIGHT_SCREENSHOT_URL" alt="Morrow in light mode" width="100%"></td>
+    <td width="50%"><img src="DARK_SCREENSHOT_URL" alt="Morrow in dark mode" width="100%"></td>
+  </tr>
+</table>
+
+A simple Windows to-do app for organizing your day and staying focused.
+Free to use. No account or internet connection required.
+
+**[Download for Windows](https://github.com/kkirteeman/morrow/releases/download/v0.7.1/morrow.exe)**
+
+Windows x64 · v0.7.1
+
+## Features
+
+- Today, pending and upcoming task views.
+- Subtasks for breaking down bigger tasks.
+- Focus timer with 5, 10 or 15-minute breaks.
+- Light and dark glass themes.
+- Tasks and settings stored on your computer.
+
+## Install
+
+Download `morrow.exe`, follow the setup steps, and open Morrow from the Start menu.
+This version is unsigned; Windows may display an unknown-publisher warning.
+
+## License
+
+Free for personal and business use under the [proprietary license](LICENSE).
+Third-party licenses, library sources and replacement instructions are included with the app
+and in the [third-party materials](https://github.com/kkirteeman/morrow/releases/download/v0.7.1/THIRD-PARTY-NOTICES-AND-SOURCES.zip).
