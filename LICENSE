@@ -1,0 +1,22 @@
+MORROW 0.7.1 — LICENSE
+Morrow's first-party software and assets are proprietary. You may install and use
+Morrow free of charge for personal or business use. No license to Morrow's
+first-party source code, or permission to redistribute its first-party portions,
+is granted except where applicable law or the rights preserved below require it.
+Morrow uses Qt, PySide6 and Shiboken6 components under LGPLv3, alongside other
+third-party components under their respective licenses. Those licenses govern
+their covered components and prevail over any conflicting first-party restriction.
+All applicable rights to use, copy, modify, redistribute and replace covered
+components remain intact. This license does not restrict modification of library
+portions, reverse engineering for debugging such modifications, or installation
+and use of compatible modified or relinked versions as required by the LGPL.
+The installation's licenses folder contains copyright notices and license texts,
+including THIRD_PARTY_NOTICES.txt, LGPL and GPL texts, corresponding library source
+archives and their manifest in licenses/sources, and BUILD-AND-REPLACEMENT.txt.
+The release also supplies these materials in THIRD-PARTY-NOTICES-AND-SOURCES.zip,
+with an updated build/replacement summary. Third-party license texts and
+corresponding-source rights are unchanged.
+These distribution terms supersede earlier bundled prerelease statements that
+Morrow's first-party license was undecided.
+To the extent permitted by applicable law, Morrow is supplied without warranty.
+Nothing here limits non-excludable statutory rights or third-party license rights.
