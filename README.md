@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="LIGHT_SCREENSHOT_URL" alt="Morrow in light mode" width="100%"></td>
-    <td width="50%"><img src="DARK_SCREENSHOT_URL" alt="Morrow in dark mode" width="100%"></td>
+    <td width="50%"><img width="1260" height="710" alt="morrow-light" src="https://github.com/user-attachments/assets/fa415a3d-5b6d-4a35-ada3-6df4973f0707" /></td>
+    <td width="50%"><img width="1260" height="710" alt="morrow-dark" src="https://github.com/user-attachments/assets/ca93ceba-c985-4634-85b5-d52a4749c3b2" /></td>
   </tr>
 </table>
 
